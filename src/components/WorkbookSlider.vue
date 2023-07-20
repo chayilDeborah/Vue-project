@@ -6,7 +6,7 @@
       <div class="text-[#464A50] font-bold text-[16px] ml-[20px]">Recent workbooks</div>
       <div className="lg:flex justify-center">
         <div
-          className="flex overflow-scroll ml-5 mt-[50px] scrollbar-hide no-scrollbar w-full max-w-7xl"
+          className="flex overflow-scroll ml-5 mt-[50px] space-x-5 scrollbar-hide no-scrollbar w-full max-w-7xl"
         >
           <div class="relative">
             <div
@@ -68,7 +68,7 @@
                 </div>
               </div>
               <div class="text-[#464A50] text-[14px]">
-                contsins questions that will help improve your design thinking process to enhance
+                contains questions that will help improve your design thinking process to enhance
                 your UX design
               </div>
               <hr class="mt-[10px] mb-[10px] w-[93%]" />
@@ -111,7 +111,7 @@
                   alt=""
                 />
                 <a
-                  class="flex items-center justify-center px-[10px] h-10 text-xs font-medium text-[#464A50] bg-[#F0F4FA] border-2 border-white rounded-full hover:bg-gray-600 dark:border-gray-800"
+                  class="flex items-center justify-center px-[10px] h-10 text-xs font-medium text-[#464A50] bg-[#F0F4FA] border-2 border-white rounded-full hover:bg-gray-200 dark:border-gray-800"
                   href="#"
                   >+120 results</a
                 >
@@ -174,13 +174,13 @@
                   <img src="/images/package.png" class="w-[30px] h-[30px]" alt="icon" />
                 </div>
                 <div class="pl-[10px]">
-                  <div class="font-bold text-[#464A50]">UX Research</div>
+                  <div class="font-bold text-[#464A50]">UX Principle</div>
                   <div class="text-[#464A50] text-[14px] mt-[5px]">25 questions</div>
                   <div class="text-[#464A50] text-[14px] mt-[5px]">30 minutes</div>
                 </div>
               </div>
               <div class="text-[#464A50] text-[14px]">
-                contsins questions that will help improve your design thinking process to enhance
+                contains questions that will help improve your design thinking process to enhance
                 your UX design
               </div>
               <hr class="mt-[10px] mb-[10px] w-[93%]" />
@@ -223,9 +223,9 @@
                   alt=""
                 />
                 <a
-                  class="flex items-center justify-center px-[10px] h-10 text-xs font-medium text-[#464A50] bg-[#F0F4FA] border-2 border-white rounded-full hover:bg-gray-600 dark:border-gray-800"
+                  class="flex items-center justify-center px-[10px] h-10 text-xs font-medium text-[#464A50] bg-[#F0F4FA] border-2 border-white rounded-full hover:bg-gray-200 dark:border-gray-800"
                   href="#"
-                  >+120 results</a
+                  >+82 results</a
                 >
               </div>
 
@@ -286,13 +286,13 @@
                   <img src="/images/package.png" class="w-[30px] h-[30px]" alt="icon" />
                 </div>
                 <div class="pl-[10px]">
-                  <div class="font-bold text-[#464A50]">UX Research</div>
+                  <div class="font-bold text-[#464A50]">Typography</div>
                   <div class="text-[#464A50] text-[14px] mt-[5px]">25 questions</div>
                   <div class="text-[#464A50] text-[14px] mt-[5px]">30 minutes</div>
                 </div>
               </div>
               <div class="text-[#464A50] text-[14px]">
-                contsins questions that will help improve your design thinking process to enhance
+                contains questions that will help improve your design thinking process to enhance
                 your UX design
               </div>
               <hr class="mt-[10px] mb-[10px] w-[93%]" />
@@ -335,9 +335,9 @@
                   alt=""
                 />
                 <a
-                  class="flex items-center justify-center px-[10px] h-10 text-xs font-medium text-[#464A50] bg-[#F0F4FA] border-2 border-white rounded-full hover:bg-gray-600 dark:border-gray-800"
+                  class="flex items-center justify-center px-[10px] h-10 text-xs font-medium text-[#464A50] bg-[#F0F4FA] border-2 border-white rounded-full hover:bg-gray-200 dark:border-gray-800"
                   href="#"
-                  >+120 results</a
+                  >+12 results</a
                 >
               </div>
 
